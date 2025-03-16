@@ -1,6 +1,3 @@
-¡Perfecto! Te dejo la versión modificada, sin la parte de la configuración de correo y con un toque de español rioplatense:
-
----
 
 ## Pipeline para Creación de Usuarios en Jenkins
 
